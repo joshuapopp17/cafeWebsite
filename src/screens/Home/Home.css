@@ -1,0 +1,23 @@
+.header {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+.text {
+    font-weight: 400;
+}
+
+.Logo {
+    display: flex;
+    flex-direction: 'row';
+    align-items: center;
+}
+
+.section {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.image {
+    filter: grayscale(1)
+}
